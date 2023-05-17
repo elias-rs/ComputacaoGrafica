@@ -20,6 +20,13 @@ Apresentação do código para a disciplina de Computação Gráfica
    <br>
    
    * Conforme a serpente passa pelo objeto maça sua cauda é incrementada em +1. Vide o código a seguir:
-   
    <br>
    
+   ```
+   if(macax == px && macay == py){
+    cauda++;
+    macax = Math.floor(Math.random()*quant);
+    macay = Math.floor(Math.random()*quant);
+   }
+   ```
+   <br>
