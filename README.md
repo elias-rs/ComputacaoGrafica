@@ -1,9 +1,9 @@
 # ComputacaoGrafica
 Apresentação do código para a disciplina de Computação Gráfica
 <br>
-<h1>
+
   * Apresentando o game "Snake"
-</h1>
+
 <br>
   <figure>
     <img src = "https://i.imgur.com/T559Hzs.png" alt = "Snake" heidth = "240" width = "240">
