@@ -1,6 +1,7 @@
 # Computação Gráfica
 Apresentação do código para a disciplina de Computação Gráfica
-<br>
+ <br> 
+ * OBS: É necessário utilizar o VS Code (ou o editor de preferência), mais a extensão Live Preview, ou Live Server para executar o jogo através do HTML
 
   * Apresentando o game "Snake"
 
